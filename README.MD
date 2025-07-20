@@ -16,7 +16,7 @@ Bem-vindo ao **Detona Ralph**, um jogo de navegador divertido e simples inspirad
 
 ## 🚀 Como Jogar
 
- 1. [Clique aqui](https://tgk-dragon.github.io/Detona-Halph/) para ter acesso ao jogo hospedado no Gitpages
+ 1. [Clique aqui](http://jonas-jt.github.io/Detona-Ralph/) para ter acesso ao jogo hospedado no Gitpages
  2. Objetivo do Jogo:
 
 - Clique no Ralph sempre que ele aparecer em algum quadrado.
